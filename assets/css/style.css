@@ -493,8 +493,7 @@ section {
   }
   
     .button:hover {
-      background-color: #3303a2;
       color: #fff;
-      box-shadow: 0 0 40px rgb(255 0 229 / 70%);
+      box-shadow: 0 0 60px rgb(255 0 229 / 70%);
 
     }
